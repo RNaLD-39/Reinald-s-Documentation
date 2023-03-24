@@ -1,0 +1,39 @@
+*{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+}
+
+
+b{
+    font-size: 30px;
+}
+
+p {
+    font-size: 11px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+mention{
+    color: gray;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h5{
+    text-align: center;
+    font-size: 11px;
+}
+
+h6{
+    text-align: center;
+}
